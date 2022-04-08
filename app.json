@@ -5,7 +5,7 @@
         "whatsapp",
         "bot"
     ],
-    "stack": "container",
+    "stack": "container",https://github.com/Stormxttvm/whatsapp-bot/edit/master/README.md
     "env": {
         "ASENA_SESSION": {
             "description": "Enter whatsapp web session.",
